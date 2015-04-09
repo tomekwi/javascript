@@ -12,6 +12,9 @@
 
   // Define globals exposed by Node.js.
   "node": true,
+  
+  // Allow ES6.
+  "esnext": true,
 
   /*
    * ENFORCING OPTIONS
